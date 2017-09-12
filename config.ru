@@ -226,7 +226,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Velkommen til Roar in første openshift applikasjon deployet på Openshift med Kubernetes og Docker</h1>
+            <h1>Velkommen til Roar sin forste openshift applikasjon deployet paa Openshift med Kubernetes og Docker</h1>
           </hgroup>
 
 
